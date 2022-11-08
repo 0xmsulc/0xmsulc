@@ -1,9 +1,9 @@
-## Hi, I am @0xmsulc
+## Hi, I'm @0xmsulc
 
 #### Software developer transitioning from web2 to web3
 
 <ul>
-  <li>🌍 CET timezone right now. Global mindset. </li>
+  <li>🌍 Currently CET timezone. Global mindset. </li>
   <li>🧠 Strong knowledge of <b>Javascript</b>, <b>Typescript</b>, <b>Node</b> and <b>React</b>.</li>
   <li>🐵 I'm learning <b>Solidity</b>, <b>Rust</b> and <b>Cairo</b>.</li>
   <li>🤝 Open for project collaboarations on frontend, backend and on a smart contract level.</li>
